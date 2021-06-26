@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: classic
+theme: Coffee
 day_night: true
-font: ''
-font_size: L
+font: 'Mr Robot'
+font_size: M
 
 # SEO
 
